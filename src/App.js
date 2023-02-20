@@ -1,7 +1,7 @@
-import Footer from "./ArchitectTemplate/Footer";
-import Header from "./ArchitectTemplate/Header";
-import Navbar from "./ArchitectTemplate/Navbar";
-import Pagecontent from "./ArchitectTemplate/Pagecontent";
+import Footer from "./w3/Footer";
+import Header from "./w3/Header";
+import Navbar from "./w3/Navbar";
+import Pagecontent from "./w3/Pagecontent";
 
 function App() {
   return (<>
